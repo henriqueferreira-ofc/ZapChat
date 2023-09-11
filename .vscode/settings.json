@@ -1,0 +1,25 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.formatting.provider": "none",
+  "cSpell.words": [
+    "aplicativo",
+    "botao",
+    "clicou",
+    "conectou",
+    "criar",
+    "disparou",
+    "enviou",
+    "Funcionalidade",
+    "gerenciar",
+    "lista",
+    "mensagens",
+    "nossa",
+    "nosso",
+    "pagina",
+    "roda",
+    "tunel",
+    "Usuario"
+  ]
+}
