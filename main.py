@@ -20,5 +20,5 @@ def homepage():
 
 
 # roda a nosso aplicativo
-socketio.run(app, host="192.168.1.9")
+socketio.run(app, host="192.168.1.11")
 # websocket -> tunel
