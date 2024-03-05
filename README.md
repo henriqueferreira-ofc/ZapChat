@@ -6,8 +6,8 @@ Esse Projeto é um trabalho feito em Python e me ajudou a entender pontos fundam
 ## 🛠️ Projeto construído usando:
 - Python
 - CSS
-- Java Script
-- Power Shell
+- JavaScript
+- PowerShell
 
 
 ![ProjetoZapChat](https://github.com/henriquearaujooficial/ZapChat/blob/main/WhatsApp.jpeg)
