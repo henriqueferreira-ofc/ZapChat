@@ -9,6 +9,6 @@ Esse Projeto é um trabalho feito em Python e me ajudou a entender pontos fundam
 - JavaScript
 - PowerShell
 
-[![Python package](https://github.com/henriquearaujooficial/ZapChat/actions/workflows/python-package.yml/badge.svg)](https://github.com/henriquearaujooficial/ZapChat/actions/workflows/python-main.yml)
+[![Python package](https://github.com/henriquearaujooficial/ZapChat/actions/workflows/python-package.yml/badge.svg)](https://github.com/henriquearaujooficial/ZapChat/actions/workflows/main.yml)
 
 ![ProjetoZapChat](https://github.com/henriquearaujooficial/ZapChat/blob/main/WhatsApp.jpeg)
