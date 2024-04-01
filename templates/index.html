@@ -99,8 +99,8 @@
 
     <script type="text/javascript">
         $(document).ready(function () {
-            //var socket = io("192.168.1.11:5000")
-            gunicorn -b 192.168.1.11:5000 main:app
+            var socket = io("192.168.1.7:5000")
+            //gunicorn -b 192.168.1.7:5000 main:app
 
             socket.on("connect", function () {
                 console.log("conectou");
