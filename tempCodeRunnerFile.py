@@ -1,6 +1,3 @@
-#site com os scripts: https://cdnjs.com/
-#from distutils.command.install import install
-#pip install python-socketio flask-socketio simple-websocket
 from flask import Flask, render_template
 from flask_socketio import SocketIO, send
 
@@ -23,6 +20,3 @@ if __name__ == '__main__':
     port = 5000
     print(f"Servidor Flask está sendo executado em http://192.168.1.7:5000/")
     socketio.run(app, host=host, port=port, debug=True, allow_unsafe_werkzeug=True)
-
-
-
