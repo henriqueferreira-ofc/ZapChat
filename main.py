@@ -1,4 +1,4 @@
-# site com os scripts: https://cdnjs.com/
+#site com os scripts: https://cdnjs.com/
 #from distutils.command.install import install
 #pip install python-socketio flask-socketio simple-websocket
 from flask import Flask, render_template
