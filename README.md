@@ -11,4 +11,4 @@ Esse Projeto é um trabalho feito em Python e me ajudou a entender pontos fundam
 
 [![Python package](https://github.com/henriquearaujooficial/ZapChat/actions/workflows/python-package.yml/badge.svg)](https://github.com/henriquearaujooficial/ZapChat/actions/workflows/python-package.yml)
 
-![ProjetoZapChat](https://github.com/henriquearaujooficial/ZapChat/blob/main/WhatsApp.jpeg)
+![ProjetoDev](https://github.com/henriquearaujooficial/ProjetoDev/blob/main/Telaprincipal.png)
