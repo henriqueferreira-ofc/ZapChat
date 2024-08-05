@@ -7,7 +7,7 @@ from flask_socketio import SocketIO, send
 app = Flask(__name__)
 socketio = SocketIO(app, cors_allowed_origins="*")
 
-Funcionalidade de enviar mensagem
+#Funcionalidade de enviar mensagem
 @socketio.on("message")
 def gerenciar_mensagem(mensagem):
     send(mensagem, broadcast=True)
