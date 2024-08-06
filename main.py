@@ -1,6 +1,7 @@
 #site com os scripts: https://cdnjs.com/
 #from distutils.command.install import install
 #pip install python-socketio flask-socketio simple-websocket
+
 from flask import Flask, render_template
 from flask_socketio import SocketIO, send
 
@@ -17,10 +18,12 @@ def gerenciar_mensagem(mensagem):
 def homepage():
     return render_template("index.html")
 app.debug = False
-
+#192.168.1.7
+#10.233.60.11
+#10.3.1.2
 if __name__ == '__main__':
-    host = "192.168.1.7"
+    host = "0.0.0.0"
     port = 5000
-    print(f"Servidor Flask está sendo executado em http://192.168.1.7:5000/")
+    print(f"Servidor Flask está sendo executado em http://0.0.0.0:5000/")
     socketio.run(app, host=host, port=port, debug=True, allow_unsafe_werkzeug=True)
     
