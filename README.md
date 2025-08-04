@@ -105,3 +105,19 @@ pip install --upgrade -r requirements.txt
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+
+---
+
+**Desenvolvido com ❤️ por Henrique Ferreira**
+
+Este projeto é um trabalho feito em Python e me ajudou a entender pontos fundamentais na minha trajetória de desenvolvedor, feito com muito carinho, aos poucos venho desenvolvendo minhas habilidades, desenvolvido em um curso da Hashtag Treinamentos.
+
+## 🛠️ Tecnologias utilizadas:
+- Python
+- Flask
+- Socket.IO
+- CSS
+- JavaScript
+- HTML
+
+![Projeto ZapChat](https://github.com/henriquearaujooficial/ZapChat/blob/main/WhatsApp.jpeg)
