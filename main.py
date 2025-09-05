@@ -34,5 +34,6 @@ if __name__ == '__main__':
     print(f"Servidor Flask está sendo executado em http://127.0.0.1:5001/")
     socketio.run(app, host=host, port=port, debug=True, allow_unsafe_werkzeug=True)
 
-
+#pyton3 main.py 
+#Executar no terminal
 
